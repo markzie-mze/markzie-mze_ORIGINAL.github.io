@@ -15,7 +15,7 @@ _I'm a conservation ecologist with an interest in all things tech, data and natu
 
 ### Projects
 - Indigenous knowledge of threatened species
-- Satellite tracking leatherback turtles [explore their movements](https://markzie-mze.github.io/turtle-migrations/)
+- Satellite tracking leatherback turtles ([explore movements])(https://markzie-mze.github.io/turtle-migrations/)
 - Exploring development trends in the Tropics
 - Spatial distribution modelling of bustards and rainfall
 - 
