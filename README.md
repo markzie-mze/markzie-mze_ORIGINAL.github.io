@@ -1,6 +1,6 @@
 # Ecologist & Data Scientist
 
-Welcome to my homepage!
+## Welcome to my homepage!
 ---
 _I'm a conservation ecologist with an interest in all things tech, data and nature_
 
@@ -15,7 +15,9 @@ _I'm a conservation ecologist with an interest in all things tech, data and natu
 
 ### Projects
 - Indigenous knowledge of threatened species
-- Satellite tracking leatherback turtles
+- Satellite tracking leatherback turtles [explore their movements](https://markzie-mze.github.io/turtle-migrations/)
 - Exploring development trends in the Tropics
+- Spatial distribution modelling of bustards and rainfall
+- 
 
 
