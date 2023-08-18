@@ -1,7 +1,7 @@
 # Ecologist & Data Scientist
 
-### Experience
-Data scientist
+Welcome to my homepage!
+
 
 ### Services
 1. Data mining
