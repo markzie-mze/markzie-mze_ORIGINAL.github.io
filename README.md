@@ -1,9 +1,8 @@
 # Ecologist & Data Scientist
 
 #### Welcome to my homepage!
----
 _I'm a conservation ecologist with an interest in all things tech, data and nature_
-
+---
 
 ### Services
 1. Data management
